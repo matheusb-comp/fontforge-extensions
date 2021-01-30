@@ -59,4 +59,4 @@ if fontforge.hasUserInterface():
 		"Font",
 		None,
 		"Export All Glyphs"
-	)
+)
